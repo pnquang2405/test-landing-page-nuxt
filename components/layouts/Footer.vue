@@ -119,6 +119,9 @@
       border: none;
       border-radius: 10px;
       cursor: pointer;
+      min-width: 100%;
+      padding: 12px;
+      margin-bottom: 20px;
 
       &:hover {
         background-color: #2a36a6;
